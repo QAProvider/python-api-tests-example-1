@@ -1,5 +1,4 @@
 import requests
-import pytest
 import allure
 
 @allure.step('REQUEST')
