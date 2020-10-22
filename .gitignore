@@ -1,0 +1,6 @@
+*__pycache__
+/Pipfile*
+/.idea
+/.venv
+/allure_results
+/api-tests
