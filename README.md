@@ -1,5 +1,4 @@
 # How to write a first API test with Python + Pytest + Allure
-https://qaprovider.com/discussion/show/api-testing-with-python-pytest-allure/79
 
 **library** is a package that sends API request and has all the stuff for Allure report
 
@@ -7,11 +6,14 @@ https://qaprovider.com/discussion/show/api-testing-with-python-pytest-allure/79
 
 ## How to use ##
 
-Being in folder containing tests folder run pytests:
+Being in the folder containing tests folder run pytests:
 
 $ pytest --alluredir=allure_results
 
 Serve results with Allure:
 
 $ allure server allure_results/ 
- 
+
+## Full description ##
+
+https://qaprovider.com/discussion/show/api-testing-with-python-pytest-allure/79
